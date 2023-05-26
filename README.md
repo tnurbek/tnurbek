@@ -9,7 +9,7 @@ job: Researcher
 education: ["Master's in Machine Learning", "Bachelor's in Cybersecurity"] 
 company: Mohamed bin Zayed University of Artificial Intelligence 
 past experiences: 
-- ["Data Scientist", "InCyberService", "Almaty, Kazakhstan", "05.21-09.21"]
+- ["Data Scientist", "InCyberService", "Almaty, Kazakhstan", "05.20-09.21"]
 - ["Python Developer and Teacher", "Bolashak School, IITU", "Almaty, Kazakhstan", "01.18-03.19"]
 
 fields_of_interests: ["Machine Learning", "Computer Vision", "Trustworthy AI", "Federated Learning"]
