@@ -13,7 +13,7 @@ past experiences:
 - ["Python Developer and Teacher", "Bolashak School, IITU", "Almaty, Kazakhstan", "01.18-03.19"]
 
 fields_of_interests: ["Machine Learning", "Computer Vision", "Trustworthy AI", "Federated Learning"]
-hobbies: ["Volleyball", "Cinema", "Competitive Gaming", "Table Tennis"]
+hobbies: ["Table Tennis", "Volleyball", "Cinema", "Competitive Gaming"]
 ```
 
 
