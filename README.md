@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ```yaml
 name: Nurbek Tastan 
 located_in: Abu Dhabi, UAE 
