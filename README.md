@@ -3,7 +3,7 @@ name: Nurbek Tastan
 located_in: Abu Dhabi, UAE 
 from: Almaty (Kazakhstan) 
 job: Researcher 
-education: ["PhD in Machine Learning", "MSc in Machine Learning", "Bachelor's in Cybersecurity"] 
+education: ["PhD in Machine Learning", "MSc in Machine Learning", "BSc in Cybersecurity"] 
 company: Mohamed bin Zayed University of Artificial Intelligence 
 past experiences: 
 - ["Data Scientist", "InCyberService", "Almaty, Kazakhstan", "05.20-09.21"]
