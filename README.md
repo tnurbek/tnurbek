@@ -1,7 +1,7 @@
 ```yaml
 name: Nurbek Tastan 
 located_in: Abu Dhabi, UAE 
-from: Almaty (Kazakhstan) 
+from: Almaty, Kazakhstan
 job: Researcher 
 education: ["PhD in Machine Learning", "MSc in Machine Learning", "BSc in Cybersecurity"] 
 company: Mohamed bin Zayed University of Artificial Intelligence 
