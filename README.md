@@ -9,8 +9,8 @@ past experiences:
 - ["Data Scientist", "InCyberService", "Almaty, Kazakhstan", "05.20-09.21"]
 - ["Python Developer and Teacher", "Bolashak School, IITU", "Almaty, Kazakhstan", "01.18-03.19"]
 
-fields_of_interests: ["Machine Learning", "Computer Vision", "Trustworthy AI", "Federated Learning"]
-hobbies: ["Table Tennis", "Volleyball", "Cinema", "Competitive Gaming"]
+fields_of_interests: ["Federated Learning", "Trustworthy AI", "Machine Learning", "Computer Vision"]
+hobbies: ["Table Tennis", "Volleyball", "Cinema", "Competitive Gaming"] 
 ```
 
 
