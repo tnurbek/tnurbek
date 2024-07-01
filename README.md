@@ -13,7 +13,8 @@ fields_of_interests: ["Federated Learning", "Trustworthy AI", "Machine Learning"
 hobbies: ["Table Tennis", "Volleyball", "Cinema", "Competitive Gaming"] 
 ```
 
-Visitor Count: <img src="https://profile-counter.glitch.me/tnurbek/count.svg" />
+Visitor Count: <br>
+<img src="https://profile-counter.glitch.me/tnurbek/count.svg" />
 
 <!--
 **tnurbek/tnurbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
