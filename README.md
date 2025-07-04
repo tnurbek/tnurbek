@@ -6,7 +6,7 @@ current position: Doctoral Researcher
 education: ["PhD in Machine Learning", "MSc in Machine Learning", "BSc in Systems of Information Security"] 
 company: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
 past experiences: 
-- ["Data Scientist", "InCyberService", "Almaty, Kazakhstan", "05.20-09.21"]
+- ["Data Scientist", "Healthcare IT", "Almaty, Kazakhstan", "05.20-09.21"]
 - ["Python Developer and Teacher", "Bolashak School, IITU", "Almaty, Kazakhstan", "01.18-03.19"]
 
 fields_of_interests: ["Machine Learning", "Federated Learning", "Trustworthy Machine Learning"]
