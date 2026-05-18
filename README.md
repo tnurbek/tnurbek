@@ -5,7 +5,9 @@ from: Almaty, Kazakhstan
 current position: Doctoral Researcher 
 education: ["PhD in Machine Learning", "MSc in Machine Learning", "BSc in Systems of Information Security"] 
 company: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-past experiences: 
+past experiences:
+- ["Visiting Researcher", "University of Cambridge", "Cambridge, UK", "02.26-05.26"]
+- ["Lead Teaching Assistant", "MBZUAI", "Abu Dhabi, UAE", "01.22-06.25"]
 - ["Data Scientist", "Healthcare IT", "Almaty, Kazakhstan", "05.20-09.21"]
 - ["Python Instructor", "Bolashak School, IITU", "Almaty, Kazakhstan", "01.18-03.19"]
 
