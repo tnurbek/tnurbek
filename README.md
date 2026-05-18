@@ -11,7 +11,7 @@ past experiences:
 - ["Data Scientist", "Healthcare IT", "Almaty, Kazakhstan", "05.20-09.21"]
 - ["Python Instructor", "Bolashak School, IITU", "Almaty, Kazakhstan", "01.18-03.19"]
 
-fields_of_interests: ["Machine Learning", "Federated Learning", "Trustworthy Machine Learning", "Efficient Machine Learning"]
+fields_of_interests: ["Machine Learning", "Optimization", "Trustworthy Machine Learning", "Efficient Machine Learning"]
 hobbies: ["Table Tennis", "Volleyball", "Cinema", "Competitive Gaming"] 
 ```
 
