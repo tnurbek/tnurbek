@@ -1,10 +1,10 @@
 ```yaml
 name: Nurbek Tastan 
-located_in: Abu Dhabi, UAE 
+located_in: Cupertino, California, United States
 from: Almaty, Kazakhstan
-current position: Doctoral Researcher 
+current position: AI/ML Resident (ML Researcher)
 education: ["PhD in Machine Learning", "MSc in Machine Learning", "BSc in Systems of Information Security"] 
-company: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+company: Apple Inc.
 past experiences:
 - ["Visiting Researcher", "University of Cambridge", "Cambridge, UK", "02.26-05.26"]
 - ["Lead Teaching Assistant", "MBZUAI", "Abu Dhabi, UAE", "01.22-06.25"]
